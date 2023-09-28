@@ -6,4 +6,4 @@ $$ João\  14:6 $$
 
 Computer Engineering Undergraduate at the Informatics Center of the Federal University of Pernambuco (Brazil).
 
-Give me the right tools and a couple time to learn somewthing new and I may surprise you (or maybe not).
+Give me the right tools and a couple time to learn something new and I may surprise you (or maybe not).
