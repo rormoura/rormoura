@@ -4,6 +4,10 @@ $$ Disse-lhe \ Jesus: Eu\  sou\  o\  caminho, \ e\  a\  verdade\  e\  a\  vida;\
 
 $$ João\  14:6 $$
 
+$$ Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me. $$
+
+$$ John\  14:6 $$
+
 Computer Engineering Undergraduate at the Informatics Center of the Federal University of Pernambuco (Brazil).
 
 Give me the right tools and a couple time to learn something new and I may surprise you (or maybe not).
