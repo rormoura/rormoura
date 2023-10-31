@@ -10,4 +10,10 @@ $$ John\  14:6 $$
 
 Computer Engineering Undergraduate at the Informatics Center of the Federal University of Pernambuco (Brazil).
 
+### Kinda useful with 
+
+[![My Skills](https://skillicons.dev/icons?i=py,git,java)](https://skillicons.dev)
+
 Give me the right tools and a couple time to learn something new and I may surprise you (or maybe not).
+
+[![Ujwal Kandi's github stats](https://github-readme-stats-ujwalkandi.vercel.app/api?username=rormoura&count_private=true&show_icons=true&theme=blue-green&hide=stars&hide_rank=false&include_all_commits=true)](https://github.com/rormoura?tab=repositories)&nbsp;&nbsp;
