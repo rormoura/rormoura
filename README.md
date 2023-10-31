@@ -12,7 +12,7 @@ Computer Engineering Undergraduate at the Informatics Center of the Federal Univ
 
 ### Kinda useful with 
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,java,js)](https://skillicons.dev)
 
 Give me the right tools and a couple time to learn something new and I may surprise you (or maybe not).
 
