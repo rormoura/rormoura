@@ -1,4 +1,4 @@
-# Hello there, I'm Rodrigo Rocha Moura
+# Hello there, I'm [Rodrigo Rocha Moura](https://www.linkedin.com/in/rodrigo-rocha-moura/)
 
 $$ Disse-lhe \ Jesus: Eu\  sou\  o\  caminho, \ e\  a\  verdade\  e\  a\  vida;\  ninguém\  vem\  ao\  Pai,\  senão\  por\  mim. $$
 
