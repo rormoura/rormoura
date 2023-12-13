@@ -4,7 +4,7 @@ $$ Disse-lhe \ Jesus: Eu\  sou\  o\  caminho, \ e\  a\  verdade\  e\  a\  vida;\
 
 $$ João\  14:6 $$
 
-$$ Jesus\ said\ to\ him\,\ “I\ am\ the\ way,\ the\ truth,\ and\ the\ life.\ No\ one\ comes\ to\ the\ Father\ except\ through\ Me. $$
+$$ Jesus\ said\ to\ him\,\ I\ am\ the\ way,\ the\ truth,\ and\ the\ life.\ No\ one\ comes\ to\ the\ Father\ except\ through\ Me. $$
 
 $$ John\  14:6 $$
 
