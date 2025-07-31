@@ -1,4 +1,4 @@
-# Hello there, I'm [Rodrigo Rocha Moura](https://www.linkedin.com/in/rodrigo-rocha-moura/)
+# Hello there, I'm [Rodrigo Rocha Moura](https://www.linkedin.com/in/rodrigo-rocha-moura/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rodrigo-rocha-moura/)
 
 $$ Disse-lhe \ Jesus: Eu\  sou\  o\  caminho, \ e\  a\  verdade\  e\  a\  vida;\  ninguém\  vem\  ao\  Pai,\  senão\  por\  mim. $$
 
@@ -12,7 +12,7 @@ Computer Engineering Undergraduate at the Informatics Center of the Federal Univ
 
 ### Kinda useful with 
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,git,latex,mysql,postgres,js,nodejs,docker&perline=3)](https://skillicons.dev)
 
 Give me the right tools and a couple time to learn something new and I may surprise you (or maybe not).
 
