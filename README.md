@@ -12,7 +12,7 @@ Computer Engineering Undergraduate at the Informatics Center of the Federal Univ
 
 ### Kinda useful with 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,git,latex,mysql,postgres,js,nodejs,docker&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,git,latex,mysql,postgres,js,nodejs,docker,aws&perline=3)](https://skillicons.dev)
 
 Give me the right tools and a couple time to learn something new and I may surprise you (or maybe not).
 
