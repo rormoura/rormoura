@@ -8,7 +8,7 @@ $$ Jesus\ said\ to\ him\,\ I\ am\ the\ way,\ the\ truth,\ and\ the\ life.\ No\ o
 
 $$ John\  14:6 $$
 
-Computer Engineering graduated at the Informatics Center of the Federal University of Pernambuco (Brazil).
+Computer Engineer graduated at the Informatics Center of the Federal University of Pernambuco (Brazil).
 
 ### Kinda useful with 
 
